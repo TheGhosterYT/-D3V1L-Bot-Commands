@@ -13,7 +13,14 @@ devil is a idiot
 devil bot is sick
 :preplys with "thanks!!"
 
+Devil is daddy
+:replys with "Yess daddy👌"
 
+devil is big daddy
+:replys with "OMG,YESSS DADDY😂😂"
+
+come here daddy im home alone
+:replys with "be right there, make sure your protected😍 hehe"
 
 d+owo
 :replys with "0w0  (*/ω＼*)"
