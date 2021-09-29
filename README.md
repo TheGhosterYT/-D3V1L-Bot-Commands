@@ -7,6 +7,9 @@ some need the prefix {d+}
 d+whois
 :displays infomation about the user😎
 
+d+yo
+:replys with "yo, wsp"
+
 devil is a idiot
 :replys with "F*ck of, do you wanna get banned lol"
 
