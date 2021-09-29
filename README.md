@@ -1,10 +1,10 @@
 # -D3V1L-Bot-Commands
 all the commands for the bot
-some commands dont need the prefix{+}
-some need the prefix {+}
+some commands dont need the prefix{d+}
+some need the prefix {d+}
 
 **************************************************************************************
-+whois
+d+whois
 :displays infomation about the user😎
 
 devil is a idiot
@@ -13,26 +13,26 @@ devil is a idiot
 devil bot is sick
 :preplys with "thanks!!"
 
-+owo
+d+owo
 :replys with "0w0  (*/ω＼*)"
 
-+sussy baka
+d+sussy baka
 :replys with "No you ;)"
 
-+netflix and chill
+d+netflix and chill
 :replys with "Your place, 6pm, be there ;)"
 
-+your gay
+d+your gay
 :replys with "Until i met your mum😉"
 
-+socials
+d+socials
 :displays D3V1L's socials
 
-+dm solo.to
+d+dm solo.to
 :DM's D3V1L's solo.to to you
 
-+av
+d+av
 :Displays the user Avatar
 
-+help
+d+help
 :Shows list of main commands
