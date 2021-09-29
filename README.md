@@ -20,13 +20,16 @@ devil bot is sick
 :replys with "No you ;)"
 
 +netflix and chill
-:replys with ""
-
+:replys with "Your place, 6pm, be there ;)"
+;
 +socials
+:displays D3V1L's socials
 
 +dm solo.to
+:DM's D3V1L's solo.to to you
 
 +av
 :Displays the user Avatar
 
 +help
+:Shows list of main commands
