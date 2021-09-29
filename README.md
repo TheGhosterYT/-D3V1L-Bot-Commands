@@ -13,6 +13,9 @@ devil is a idiot
 devil bot is sick
 :preplys with "thanks!!"
 
+d+
+:replys "thats my prefix!!"
+
 d+owo
 :replys with "0w0  (*/ω＼*)"
 
