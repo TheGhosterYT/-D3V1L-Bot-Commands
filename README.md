@@ -36,3 +36,6 @@ d+av
 
 d+help
 :Shows list of main commands
+
+d+website
+:Shows buttons to my website
