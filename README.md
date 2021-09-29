@@ -21,7 +21,10 @@ devil bot is sick
 
 +netflix and chill
 :replys with "Your place, 6pm, be there ;)"
-;
+
++your gay
+:replys with "Until i met your mum😉"
+
 +socials
 :displays D3V1L's socials
 
