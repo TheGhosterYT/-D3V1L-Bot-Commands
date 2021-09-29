@@ -7,8 +7,7 @@ some need the prefix {d+}
 d+whois
 :displays infomation about the user😎
 
-d+yo
-:replys with "yo, wsp"
+
 
 d+fun time
 :shows a link to this page for all commands
