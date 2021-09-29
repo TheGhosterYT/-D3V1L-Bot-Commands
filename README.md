@@ -10,6 +10,9 @@ d+whois
 d+yo
 :replys with "yo, wsp"
 
+d+fun time
+:shows a link to this page for all commands
+
 devil is a idiot
 :replys with "F*ck of, do you wanna get banned lol"
 
