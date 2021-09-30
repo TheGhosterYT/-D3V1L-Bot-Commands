@@ -7,7 +7,8 @@ some need the prefix {d+}
 d+whois
 :displays infomation about the user😎
 
-
+d+world best server invite
+:send a link to Team Derkrix
 
 d+all commands
 :shows a link to this page for all commands
