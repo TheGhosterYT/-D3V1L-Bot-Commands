@@ -9,7 +9,7 @@ d+whois
 
 
 
-d+fun time
+d+all commands
 :shows a link to this page for all commands
 
 devil is a idiot
