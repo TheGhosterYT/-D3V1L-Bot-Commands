@@ -13,12 +13,17 @@ d+world best server invite
 d+all commands
 :shows a link to this page for all commands
 ------------------------------
+
+d+devil
+:shows main page
+------------------------------
+
 d+play (song)
 :plays music
-                     under testing
+                     
 d+stop
 (stops the music)
--------------------------------
+
 devil is a idiot
 :replys with "F*ck of, do you wanna get banned lol"
 
