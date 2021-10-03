@@ -1,6 +1,6 @@
 # -D3V1L-Bot-Commands
-all the commands for the bot
-some commands dont need the prefix{d+}
+all the commands for the bot, 
+some commands dont need the prefix{d+}, 
 some need the prefix {d+}
 ***************************************************************
 d+socials
