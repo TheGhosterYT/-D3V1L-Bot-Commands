@@ -12,7 +12,7 @@ d+socials
 d+dm solo.to
 :DM's D3V1L's solo.to to you
 
-d+av
+d+av(user)
 :Displays the user Avatar
 
 d+help
