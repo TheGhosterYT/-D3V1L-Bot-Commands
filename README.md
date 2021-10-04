@@ -20,6 +20,10 @@ d+help
 
 d+main site
 :Shows buttons to my website
+
+d+count
+:shows the amount of members in the server
+
 **************************************************************************************
 d+whois
 :displays infomation about the user😎
