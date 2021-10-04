@@ -2,6 +2,9 @@
 all the commands for the bot, 
 some commands dont need the prefix{d+}, 
 some need the prefix {d+}
+***********************************************************
+d+meme
+:shows a random meme
 ***************************************************************
 d+socials
 :displays D3V1L's socials
