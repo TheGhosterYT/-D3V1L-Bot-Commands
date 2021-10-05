@@ -12,6 +12,9 @@ d+socials
 d+derkrixsocials
 :Shows Team Derkrix Socials
 
+d+youtube
+:Shows D3V1Ls YouTube Channel link
+
 d+dm solo.to
 :DM's D3V1L's solo.to to you
 
