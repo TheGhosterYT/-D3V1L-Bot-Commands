@@ -9,6 +9,9 @@ d+meme
 d+socials
 :displays D3V1L's socials
 
+d+derkrixsocials
+:Shows Team Derkrix Socials
+
 d+dm solo.to
 :DM's D3V1L's solo.to to you
 
