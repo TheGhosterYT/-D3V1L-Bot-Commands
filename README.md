@@ -30,6 +30,9 @@ d+main site
 d+count
 :shows the amount of members in the server
 
+d+addbot
+:Shows a link to add the bot.
+
 **************************************************************************************
 d+whois
 :displays infomation about the user😎
