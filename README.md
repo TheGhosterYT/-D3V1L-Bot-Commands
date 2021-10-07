@@ -5,6 +5,9 @@ some need the prefix {d+}
 ***********************************************************
 d+meme
 :shows a random meme
+
+d+halloween
+:shows a trick or treat embed hehe
 ***************************************************************
 d+clear (1,100)
 :clears the messages 1 to 100.
