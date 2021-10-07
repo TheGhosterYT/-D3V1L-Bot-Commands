@@ -8,6 +8,9 @@ d+meme
 
 d+halloween
 :shows a trick or treat embed hehe
+
+d+botcount
+:Shows how may servers D3V1L B0T is in
 ***************************************************************
 d+clear (1,100)
 :clears the messages 1 to 100.
