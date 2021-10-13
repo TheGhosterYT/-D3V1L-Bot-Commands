@@ -3,6 +3,9 @@ all the commands for the bot,
 some commands dont need the prefix{d+}, 
 some need the prefix {d+}
 ***********************************************************
+d+serverinfo
+:shows all the info of the server, literlly all!!
+
 d+meme
 :shows a random meme
 
