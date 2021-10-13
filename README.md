@@ -4,7 +4,7 @@ some commands dont need the prefix{d+},
 some need the prefix {d+}
 ***********************************************************
 d+serverinfo
-:shows all the info of the server, literlly all!!
+:shows all the info of the server, litterly all!!
 
 d+meme
 :shows a random meme
