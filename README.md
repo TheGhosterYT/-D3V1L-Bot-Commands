@@ -6,6 +6,20 @@ some need the prefix {d+}
 d+serverinfo
 :shows all the info of the server, litterly all!!
 
+***********************************************************
+d+help music: 
+shows help page for music
+
+d+help event:
+shows all event commands
+
+d+help mod:
+shows mod help page
+
+d+help
+:Shows list of main commands
+************************************************************
+
 d+meme
 :shows a random meme
 
@@ -39,8 +53,7 @@ d+dm solo.to
 d+av(user)
 :Displays the user Avatar
 
-d+help
-:Shows list of main commands
+
 
 d+main site
 :Shows buttons to my website
